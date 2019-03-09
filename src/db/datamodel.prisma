@@ -1,0 +1,9 @@
+type User {
+  id: ID! @unique
+  name: String!
+}
+
+type Class {
+  id: ID! @unique
+  type: String!
+}

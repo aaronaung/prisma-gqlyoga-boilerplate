@@ -1,0 +1,4 @@
+{
+    "ext": "ts js graphql",
+    "exec": "node -r ts-node/register --inspect"
+}
